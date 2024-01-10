@@ -37,7 +37,7 @@ function About() {
 
           <br />
 
-            I worked as a Front-end Developer at MATBOOK from July 2023 to November 2023. I built the website from scratch using React, Orchestrated end-to-end website development, guiding the process from conceptualization to deployment. Utilized React.js to create modular, responsive interfaces, elevating the overall user experience.
+            I worked as a Front-end Developer at MATBOOK from July 2023 to December 2023. I built the website from scratch using React, Orchestrated end-to-end website development, guiding the process from conceptualization to deployment. Utilized React.js to create modular, responsive interfaces, elevating the overall user experience.
 
           <br />
 
