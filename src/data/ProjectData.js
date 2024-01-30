@@ -2,14 +2,14 @@
 export const ProjectList = [
   {
     img: "photomania.png",
-    title: "PHOTOMANIA",
+    title: "photoMania",
     description: "An application to get HD stock images fetched from multiple Apis.",
     tech_stack: ['TypeScript', 'RapidApi', 'React', 'NodeJs'],
     demo_url: "https://photomaania.netlify.app/",
   },
   {
     img: "relocatebox.png",
-    title: "RelocateBox",
+    title: "relocateBox",
     description:
       "An app where users gets their easy and fast relocation services",
     tech_stack: ['React', 'CSS', 'NodeJs', 'Javascript'],
