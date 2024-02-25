@@ -8,20 +8,28 @@ export const ProjectList = [
     demo_url: "https://photomaania.netlify.app/",
   },
   {
-    img: "relocatebox.png",
-    title: "relocateBox",
-    description:
-      "An app where users gets their easy and fast relocation services",
-    tech_stack: ['React', 'CSS', 'NodeJs', 'Javascript'],
-    demo_url: "https://relocatebox.netlify.app/",
-  },
-  {
     img: "devedit.png",
     title: "devEdit",
     description:
       "An app where users can edit their photos",
     tech_stack: ['React', 'BootStrap', 'NodeJs', 'Javascript'],
     demo_url: "https://devedits.netlify.app/",
+  },
+  {
+    img: "shoe party.png",
+    title: "Shoe Party",
+    description:
+      "An app where users have varity of shoe options to buy.",
+    tech_stack: ['React', 'TailwindCSS', 'NodeJs', 'TypeScript'],
+    demo_url: "https://shoeparty.netlify.app/",
+  },
+  {
+    img: "relocatebox.png",
+    title: "relocateBox",
+    description:
+      "An app where users gets their easy and fast relocation services",
+    tech_stack: ['React', 'CSS', 'NodeJs', 'Javascript'],
+    demo_url: "https://relocatebox.netlify.app/",
   },
   {
     img: "a-prime.png",
