@@ -1,27 +1,12 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "photomania.png",
-    title: "photoMania",
-    description: "An application to get HD stock images fetched from multiple Apis.",
-    tech_stack: ['TypeScript', 'RapidApi', 'React', 'NodeJs'],
-    demo_url: "https://photomaania.netlify.app/",
-  },
-  {
-    img: "devedit.png",
-    title: "devEdit",
-    description:
-      "An app where users can edit their photos",
-    tech_stack: ['React', 'BootStrap', 'NodeJs', 'Javascript'],
-    demo_url: "https://devedits.netlify.app/",
-  },
-  {
     img: "shoe party.png",
     title: "Shoe Party",
     description:
       "An app where users have varity of shoe options to buy.",
     tech_stack: ['React', 'TailwindCSS', 'NodeJs', 'TypeScript'],
-    demo_url: "https://shoeparty.netlify.app/",
+    demo_url: "https://shoeparty.netlify.app",
   },
   {
     img: "relocatebox.png",
@@ -32,12 +17,27 @@ export const ProjectList = [
     demo_url: "https://relocatebox.netlify.app/",
   },
   {
+    img: "photomania.png",
+    title: "photoMania",
+    description: "An application to get HD stock images fetched from multiple Apis.",
+    tech_stack: ['TypeScript', 'RapidApi', 'React', 'NodeJs'],
+    demo_url: "https://photomaania.netlify.app/",
+  },
+  {
     img: "a-prime.png",
     title: "A-Prime(Amazon Prime Clone)",
     description:
       "An app where users can add, edit and delete their daily tasks.",
     tech_stack: ['JQuery', 'CSS', 'BootStrap', 'Javascript'],
     demo_url: "https://a-prime-amazon-prime-clone.vercel.app/",
+  },
+  {
+    img: "devedit.png",
+    title: "devEdit",
+    description:
+      "An app where users can edit their photos",
+    tech_stack: ['React', 'BootStrap', 'NodeJs', 'Javascript'],
+    demo_url: "https://devedits.netlify.app/",
   },
 ];
 

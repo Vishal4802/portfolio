@@ -33,7 +33,7 @@ function About() {
 
           <br />
 
-            I worked as an Operational Analyst at Rupifi BNPL from August 2022 to December 2022. In this role, I Conducted reviews of documentation identifying discrepancies and ensuring strict adherence to company standards. Showcased attention to detail and organizational prowess in maintaining quality and error free data records.
+            I worked as an Web Developer Intern at Rupifi BNPL from August 2022 to December 2022. In this role, I done testing and fixed the website bugs, also collaborated with UI team for enhancing User Experience.
 
           <br />
 
