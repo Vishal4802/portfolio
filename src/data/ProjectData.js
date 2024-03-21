@@ -1,6 +1,14 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "diy.png",
+    title: "#DIY",
+    description:
+      "An app where users have varity of DIY Products for kids.",
+    tech_stack: ['React', 'TailwindCSS', 'NodeJs', 'TypeScript'],
+    demo_url: "https://hashdiy.netlify.app",
+  },
+  {
     img: "shoe party.png",
     title: "Shoe Party",
     description:
@@ -8,14 +16,14 @@ export const ProjectList = [
     tech_stack: ['React', 'TailwindCSS', 'NodeJs', 'TypeScript'],
     demo_url: "https://shoeparty.netlify.app",
   },
-  {
-    img: "relocatebox.png",
-    title: "relocateBox",
-    description:
-      "An app where users gets their easy and fast relocation services",
-    tech_stack: ['React', 'CSS', 'NodeJs', 'Javascript'],
-    demo_url: "https://relocatebox.netlify.app/",
-  },
+  // {
+  //   img: "relocatebox.png",
+  //   title: "relocateBox",
+  //   description:
+  //     "An app where users gets their easy and fast relocation services",
+  //   tech_stack: ['React', 'CSS', 'NodeJs', 'Javascript'],
+  //   demo_url: "https://relocatebox.netlify.app/",
+  // },
   {
     img: "photomania.png",
     title: "photoMania",
@@ -31,14 +39,14 @@ export const ProjectList = [
     tech_stack: ['JQuery', 'CSS', 'BootStrap', 'Javascript'],
     demo_url: "https://a-prime-amazon-prime-clone.vercel.app/",
   },
-  {
-    img: "devedit.png",
-    title: "devEdit",
-    description:
-      "An app where users can edit their photos",
-    tech_stack: ['React', 'BootStrap', 'NodeJs', 'Javascript'],
-    demo_url: "https://devedits.netlify.app/",
-  },
+  // {
+  //   img: "devedit.png",
+  //   title: "devEdit",
+  //   description:
+  //     "An app where users can edit their photos",
+  //   tech_stack: ['React', 'BootStrap', 'NodeJs', 'Javascript'],
+  //   demo_url: "https://devedits.netlify.app/",
+  // },
 ];
 
 // --------------------------------------- Skills
