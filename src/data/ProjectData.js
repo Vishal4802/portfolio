@@ -1,6 +1,14 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "anytube.png",
+    title: "AnyTube",
+    description:
+      "An website where user can upload and watch awesome videos.",
+    tech_stack: ['Next.Js', 'TailwindCSS', 'NodeJs', 'TypeScript'],
+    demo_url: "https://any-tube.netlify.app",
+  },
+  {
     img: "diy.png",
     title: "#DIY",
     description:
@@ -8,14 +16,14 @@ export const ProjectList = [
     tech_stack: ['React', 'TailwindCSS', 'NodeJs', 'TypeScript'],
     demo_url: "https://hashdiy.netlify.app",
   },
-  {
-    img: "shoe party.png",
-    title: "Shoe Party",
-    description:
-      "An app where users have varity of shoe options to buy.",
-    tech_stack: ['React', 'TailwindCSS', 'NodeJs', 'TypeScript'],
-    demo_url: "https://shoeparty.netlify.app",
-  },
+  // {
+  //   img: "shoe party.png",
+  //   title: "Shoe Party",
+  //   description:
+  //     "An app where users have varity of shoe options to buy.",
+  //   tech_stack: ['React', 'TailwindCSS', 'NodeJs', 'TypeScript'],
+  //   demo_url: "https://shoeparty.netlify.app",
+  // },
   // {
   //   img: "relocatebox.png",
   //   title: "relocateBox",
