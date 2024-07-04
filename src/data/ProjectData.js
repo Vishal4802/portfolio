@@ -4,7 +4,7 @@ export const ProjectList = [
     img: "anytube.png",
     title: "AnyTube",
     description:
-      "An website where user can upload and watch awesome videos.",
+      "A website where user can upload and watch awesome videos.",
     tech_stack: ['Next.Js', 'TailwindCSS', 'NodeJs', 'TypeScript'],
     demo_url: "https://any-tube.netlify.app",
   },
@@ -12,7 +12,7 @@ export const ProjectList = [
     img: "diy.png",
     title: "#DIY",
     description:
-      "An app where users have varity of DIY Products for kids.",
+      "A website where users have varity of DIY Products for kids.",
     tech_stack: ['React', 'TailwindCSS', 'NodeJs', 'TypeScript'],
     demo_url: "https://hashdiy.netlify.app",
   },
@@ -35,7 +35,7 @@ export const ProjectList = [
   {
     img: "photomania.png",
     title: "photoMania",
-    description: "An application to get HD stock images fetched from multiple Apis.",
+    description: "A website to get HD stock images fetched from multiple Apis.",
     tech_stack: ['TypeScript', 'RapidApi', 'React', 'NodeJs'],
     demo_url: "https://photomaania.netlify.app/",
   },
@@ -43,7 +43,7 @@ export const ProjectList = [
     img: "a-prime.png",
     title: "A-Prime(Amazon Prime Clone)",
     description:
-      "An app where users can add, edit and delete their daily tasks.",
+      "A website where users can add, edit and delete their daily tasks.",
     tech_stack: ['JQuery', 'CSS', 'BootStrap', 'Javascript'],
     demo_url: "https://a-prime-amazon-prime-clone.vercel.app/",
   },
